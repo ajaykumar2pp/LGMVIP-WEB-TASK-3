@@ -1,3 +1,44 @@
+# Registration Form  🚀🚀
+
+## ⭐ Introduction
+
+This is a Registration Form Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-Add Data..<br/>
+-Show Data same page<br/>
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+-react-router-dom<br />
+
+
+
+## 🔗 Links
+> ## CheckOut the website link  https://lgmvip-web-registration-form.netlify.app/
+<br/>
+<br/>
+## 💻 Screens
+
+### Read Registration Form
+
+![Screenshot (187)](https://user-images.githubusercontent.com/102378038/225033803-e7f50498-e816-4928-976d-bf8d2577156c.png)
+
+
+###  Add Student Data
+
+![Screenshot (189)](https://user-images.githubusercontent.com/102378038/225033910-7b10deae-3190-43fd-8fad-6d508a1f192c.png)
+
+![Screenshot (190)](https://user-images.githubusercontent.com/102378038/225033949-225d3937-cec5-4a38-8ce1-daffd52eeb71.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color: blueviolet;
+}
+input[type="checkbox"] {
+  margin-right:5px; 
+  margin-left: 10px;
+}
+.image-title{
+  background-color: antiquewhite;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-transform: capitalize;
+  font-weight: bold;
+  border-radius: 10px;
+ 
+  
+} 
+.desc-title{
+  background-color: antiquewhite;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-transform: capitalize;
+  font-weight: bold;
+  border-radius: 10px;
+ 
+  
+} 
